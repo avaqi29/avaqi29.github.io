@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Mengqi Xie's Pages
 
 You can use the [editor on GitHub](https://github.com/avaqi29/my-homepage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
